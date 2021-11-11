@@ -1,4 +1,4 @@
-<h2> Hi, I'm Victor Xirau! <img src="https://media.giphy.com/media/lNEm6IEnVqGnYLXJMt/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Victor! <img src="https://media.giphy.com/media/lNEm6IEnVqGnYLXJMt/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
 <p><em>Software Enginner</em></p>
 
