@@ -11,17 +11,20 @@
 
 ```javascript
 const vx = {
-  code: ["Javascript", "Python", "Java", "Swift", "PHP"],
+  code: ["Bash", "Javascript", "Java", "Python", "Dart", "C", "C++", "C#", "Swift"],
   technologies: {
         backEnd: {
             js: ["Node"],
+            python: ["Flask"]
         },
+        machineLearning: ["Keras", "TensorFlow", "PyTorch", "Numpy"],
         mobileApp: {
-            native: ["Android Development", "IOS Development"]
+            native: ["Android Development", "IOS Development"],
+            hybrid: ["Flutter"]
         },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["PostgreSQL", "MySql", "Neo4J"],
-        misc: ["Firebase"]
+        infrastructure: ["AWS", "Docker🐳", "Firebase", "Google Cloud"],
+        databases: ["PostgreSQL", "MySQL", "Neo4J"],
+        software: ["Ubuntu", "Unity", "MatLab"]
     }
 }
 ```
