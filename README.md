@@ -11,7 +11,7 @@
 
 ```javascript
 const vx = {
-  code: ["Bash", "Javascript", "Java", "Python", "Dart", "C", "C++", "C#", "Swift"],
+  code: ["Bash", "Javascript", "Java", "Python", "C", "C++", "C#", "Assembly"],
   technologies: {
         backEnd: {
             js: ["Node"],
@@ -24,7 +24,8 @@ const vx = {
         },
         infrastructure: ["AWS", "Docker🐳", "Firebase", "Google Cloud"],
         databases: ["PostgreSQL", "MySQL", "Neo4J"],
-        software: ["Ubuntu", "Unity", "MatLab"]
+        software: ["Ubuntu", "Unity", "MatLab"],
+        adobe: ["Illustrator", "Photoshop", "Lightroom", "After Effects", "Audition", "Premiere Pro"]
     }
 }
 ```
