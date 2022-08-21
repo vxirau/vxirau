@@ -10,11 +10,11 @@
 ### A little more about me...  
 
 ```javascript
-const vx = {
-  code: ["Bash", "Javascript", "Java", "Python", "C", "C++", "C#", "Assembly"],
+const vxg = {
+  code: ["C", "Java", "Dart", "Javascript", "Python", "PHP", "C++", "C#", "Assembly", "Bash"],
   technologies: {
         backEnd: {
-            js: ["Node"],
+            js: ["Node", "React"],
             python: ["Flask"]
         },
         machineLearning: ["Keras", "TensorFlow", "PyTorch", "Numpy"],
@@ -22,10 +22,11 @@ const vx = {
             native: ["Android Development", "IOS Development"],
             hybrid: ["Flutter"]
         },
-        infrastructure: ["AWS", "Docker🐳", "Firebase", "Google Cloud"],
+        infrastructure: ["AWS EC2", "AWS RDS", "Docker🐳", "Firebase", "Google Cloud"],
         databases: ["PostgreSQL", "MySQL", "Neo4J"],
         software: ["Ubuntu", "Unity", "MatLab"],
-        adobe: ["Illustrator", "Photoshop", "Lightroom", "After Effects", "Audition", "Premiere Pro"]
+        adobe: ["Illustrator", "Photoshop", "Lightroom", "After Effects", "Audition", "Premiere Pro"],
+        design: ["Sketch", "Flinto", "Canva"]
     }
 }
 ```
