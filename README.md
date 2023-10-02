@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
 <p><em>Software Enginner</em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/VXGamez?label=Follow)](https://twitter.com/VXGamez)
+[![Twitter Follow](https://img.shields.io/twitter/follow/VXirau_?label=Follow)](https://twitter.com/VXirau_)
 [![Linkedin: Victor Xirau](https://img.shields.io/badge/-victorxirau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-xirau/)](https://www.linkedin.com/in/victor-xirau/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://victorxirau.tech/)](http://victorxirau.tech/)
 
@@ -34,7 +34,7 @@ const vxg = {
 ---
 
 
-<a href="https://github.com/VXGamez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VXGamez&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&hide_border=true)](https://github.com/VXGamez/github-readme-stats" /></a>
+<a href="https://github.com/vxirau/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxirau&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&hide_border=true)](https://github.com/vxirau/github-readme-stats" /></a>
 
 ---
 
