@@ -34,8 +34,7 @@ const vxg = {
 ---
 
 
-| <a href="https://github.com/VXGamez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VXGamez&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/VXGamez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VXGamez&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&hide_border=true)](https://github.com/VXGamez/github-readme-stats" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/VXGamez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VXGamez&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&hide_border=true)](https://github.com/VXGamez/github-readme-stats" /></a>
 
 ---
 
